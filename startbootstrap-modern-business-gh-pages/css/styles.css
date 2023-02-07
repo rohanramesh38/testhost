@@ -11305,3 +11305,17 @@ html {
   background-repeat: no-repeat;
   min-height: 15rem;
 }
+
+
+.feature-box {
+  position: relative;
+  
+ }
+ .feature-box p{
+  opacity: .8;
+
+ }
+
+ .feature-box h4{
+  color:#3d3c3c;
+ }
